@@ -1,0 +1,6 @@
+# dsh-habits: Web settings editor for the user-global AGENTS.md.
+# The host service mounts here; the browser half is discovered through the
+# package.json dsh.client declaration (no separate Loader row).
+- insert:
+    - id: habits
+      name: 'dsh-habits'
