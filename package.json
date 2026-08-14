@@ -6,6 +6,8 @@
     "deepseek",
     "deepseek-harness",
     "dsh",
+    "dsh-plugin",
+    "dsh-external",
     "cordis",
     "plugin",
     "habits",
